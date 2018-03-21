@@ -1,2 +1,6 @@
 # ztealth
-target unknown
+target all
+sort knowns
+find unknowns
+collect dues
+echo loop
